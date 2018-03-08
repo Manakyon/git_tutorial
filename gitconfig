@@ -1,0 +1,11 @@
+[core]
+	editor = emacsclient -t
+	quotepath = false
+[user]
+	name = Manakyon
+	email = zelkova.bea@gmail.com
+[alias]
+	ci = commit
+	st = status
+	br = branch
+	co = checkout
